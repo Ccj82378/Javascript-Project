@@ -109,7 +109,6 @@ function displayMenuItems(menuItems) {
             </article>`;
   });
   displayMenu = displayMenu.join('');
-
   sectionCenter.innerHTML = displayMenu;
 }
 
